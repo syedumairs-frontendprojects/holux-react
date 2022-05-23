@@ -163,3 +163,9 @@ button {
 .nav__button {
   display: none;
 }
+
+/* Header scroll */
+.scroll-header {
+  background-color: var(--body-color);
+  box-shadow: 0 1px 4px hsla(228, 4%, 15%, 0.15);
+}
